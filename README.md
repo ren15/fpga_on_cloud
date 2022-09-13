@@ -13,7 +13,8 @@ https://github.com/aws/aws-fpga/blob/master/Vitis/README.md
 
 https://github.com/Xilinx/Vitis-AWS-F1-Developer-Labs
 
+https://docs.xilinx.com/v/u/zh-CN/ug1120-alveo-platforms
 
+https://china.xilinx.com/products/boards-and-kits/alveo.htm
 
-
-
+https://www.xilinx.com/developer/products/vitis.html
