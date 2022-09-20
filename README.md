@@ -1,7 +1,7 @@
 # fpga_on_cloud
 
 
-
+## Xilinx
 
 https://docs.xilinx.com/r/zh-CN/ug1393-vitis-application-acceleration
 
@@ -18,3 +18,8 @@ https://docs.xilinx.com/v/u/zh-CN/ug1120-alveo-platforms
 https://china.xilinx.com/products/boards-and-kits/alveo.htm
 
 https://www.xilinx.com/developer/products/vitis.html
+
+
+## AWS
+
+https://fpga-development-on-ec2.workshop.aws/en/1-introduction.html
